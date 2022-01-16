@@ -37,7 +37,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: hsl(var(--h, 0), 75%, 60%);
+  background-color: rgb(245, 255, 245);
 }
 
 .container {
