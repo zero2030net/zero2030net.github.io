@@ -130,7 +130,7 @@ nav::after {
 .nav__link::after {
   content: "";
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 50%;
   width: 0.65rem;
   height: 0.65rem;
