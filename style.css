@@ -12,11 +12,11 @@ html {
 }
 
 body {
-  --activeColor: rgb(240 240 240);
-  --navBgColor: rgb(37 38 41);
-  --navTextColor: rgb(144 144 150);
-  --mainBg: rgb(20 20 23);
-  font-family: "Syncopate", sans-serif;
+  --activeColor: rgb(255, 255, 255);
+  --navBgColor: rgb(245, 255, 245);
+  --navTextColor: rgb(0, 0, 0);
+  --mainBg: rgb(245, 255, 245);
+  font-family: "Space Mono", monospace;
   min-height: 100vh;
   margin: 0;
   color: #141417;
