@@ -54,11 +54,11 @@
 /* Style the profile picture */ 
 .avatar {
   vertical-align: middle;
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
-  border: solid 3px #00ff15;
-  border-width: 4px;
+  border: solid 2px #00ff15;
+  border-width: 2px;
 }
 
 /* Style the profile picture */ 
