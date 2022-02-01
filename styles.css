@@ -52,7 +52,7 @@
 }
 
 /* Style the profile picture */ 
-.avatar {
+.avatar-small {
   vertical-align: middle;
   width: 35px;
   height: 35px;
@@ -62,7 +62,7 @@
 }
 
 /* Style the profile picture */ 
-.avatar-small {
+.avatar {
   vertical-align: middle;
   width: 70px;
   height: 70px;
