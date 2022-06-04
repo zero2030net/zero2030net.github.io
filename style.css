@@ -1,15 +1,14 @@
+
+   
 .wow {
   width: 100px;
 }
 
 /*
-
 All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 310). 
         
 The 'supports' rule will only run if your browser supports CSS grid.
-
 Flexbox and floats are used as a fallback so that browsers which don't support grid will still recieve a similar layout.
-
 */
 
 /* Base Styles */
@@ -314,11 +313,8 @@ img {
 }
 
 /*
-
 The following code will only run if your browser supports CSS grid.
-
 Remove or comment-out the code block below to see how the browser will fall-back to flexbox & floated styling. 
-
 */
 
 @supports (display: grid) {
@@ -392,6 +388,11 @@ h2 {
   color: #101010;
   font-size: 20px;
 }
+h3 {
+  color: #101010;
+  font-size: 30px;
+  text-align: center;
+}
 p1 {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
@@ -426,7 +427,7 @@ figcaption {
 }
 
 #banner {
-    background: #00ff15;
+    background: #efffe5;
     height: auto;
     padding: 100px 100px
 }
@@ -444,3 +445,5 @@ a#download {
     text-decoration: none;
     border-radius: 10px;
 }
+
+.bolded { font-weight: bold; }
